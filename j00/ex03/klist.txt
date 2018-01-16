@@ -1,0 +1,7 @@
+Credentials cache: API:3D68EC40-AEFC-4B01-AB27-9E132969A6DA
+        Principal: cmalfroy@42.FR
+
+  Issued                Expires               Principal
+Jul  4 19:15:31 2017  Jul 11 19:15:31 2017  krbtgt/42.FR@42.FR
+Jul  4 19:16:53 2017  Jul 11 19:15:31 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul  4 19:41:10 2017  Jul 11 19:15:31 2017  host/vgs-fn1.42.fr@42.FR
